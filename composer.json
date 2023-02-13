@@ -1,0 +1,23 @@
+{
+  "name": "raphaelbarbooza/laravel-teams-notifications",
+  "description": "A Helper to send notifications to Microsoft Teams",
+  "type": "library",
+  "version": "1.0.0",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/raphaelbarbooza/LaravelTeamsNotification.git"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Raphael Barboza",
+      "email": "eletronic.raphael@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
